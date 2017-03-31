@@ -77,6 +77,10 @@ List of software packages (and the people developing these methods) for single-c
 
 - [monovar](https://bitbucket.org/hamimzafar/monovar) - [python] - Monovar is a single nucleotide variant (SNV) detection and genotyping algorithm for single-cell DNA sequencing data. It takes a list of bam files as input and outputs a vcf file containing the detected SNVs.
 
+### ATAC-seq
+
+- [chromVAR](https://github.com/GreenleafLab/chromVAR) - [R] - TF motif based analysis of scATAC-seq and bulk ATAC-seq data.
+
 ### Other applications
 
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.
